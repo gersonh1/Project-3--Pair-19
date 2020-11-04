@@ -1,3 +1,4 @@
 # Project-3--Pair-19
 Gerson Hernandez
 I will be parsing the log file and reading them to deferentiate the servers, activities, date and time, and email IDs.They will go into their own sub categories and save into a whole new text file that only shows servers or activities or date and time. I have to give it more thought after rewatching the lectures and looking online what is the best way to approach this project.
+Edit: I've revised my approach to the project and will be reading the log file and run if statements. According to whether there is a suspicious activity or irresponsible behavior, or system glitch and at the end it'll total the domain count. Each will have their own count when such activity occurs and will create their own file at the end displaying how many times each activity happened. I don't have set variables at this time but will soon start working on the code itself. 
